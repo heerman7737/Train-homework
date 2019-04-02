@@ -1,0 +1,21 @@
+
+.jumbotron {
+	background-color: lightblue;
+
+}
+
+body {
+	background-color: lightskyblue;
+	color: black;
+}
+
+.panel-heading {
+	background-color: blue;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #ddd;
+    color: black;
+
+}
